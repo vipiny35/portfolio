@@ -472,21 +472,28 @@ p{
    padding-bottom: 60px;
 }
 #projects h1 {
-   font: 15px/24px 'opensans-semibold', sans-serif;
+   font: 18px/24px 'opensans-semibold', sans-serif;
    text-transform: uppercase;
    letter-spacing: 1px;
-   text-align: center;
+   /*text-align: center;*/
    margin-bottom: 48px;
-   color: #FE4447;
+   /*color: #FE4447;*/
+}
+
+#projects h1 span{
+  border-bottom: 3px solid #FE4447;
+  padding-bottom: 6px;
 }
 
 /* Portfolio Content */
 #projects-wrapper .columns { margin-bottom: 36px; }
+
+
 .portfolio-item .item-wrap {
    background: #fff;
    overflow: hidden;
    position: relative;
-
+   margin-bottom: 36px;
    -webkit-transition: all 0.3s ease-in-out;
 	-moz-transition: all 0.3s ease-in-out;
 	-o-transition: all 0.3s ease-in-out;
