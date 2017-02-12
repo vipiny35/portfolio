@@ -37,7 +37,8 @@ header {
    height: 800px;
    min-height: 500px;
    width: 100%;
-   background: #161415 url(../images/main.jpg) no-repeat top center;
+   //background: #161415 url(../images/main.jpg) no-repeat top center;
+   background-color: #000;
    background-size: cover !important;
   -webkit-background-size: cover !important;
    text-align: center;
@@ -233,7 +234,10 @@ ul#nav li.current a { color: rgb(251, 2, 104); }
    margin-right: 15px;
    font-size: 20px;
 }
-
+.about-span{
+  color: #fff;
+  font-weight: 400;
+}
 
 /* ------------------------------------------------------------------ */
 /* d. Resume Section
@@ -482,6 +486,7 @@ p{
 }
 
 #projects h1 span{
+  font-size: 16px;
   border-bottom: 3px solid #FE4447;
   padding-bottom: 6px;
 }
@@ -708,7 +713,6 @@ call-to-action .button {
    background-size: cover !important;
   -webkit-background-size: cover !important;
    background-attachment: fixed;
-   display: none;
    position: relative;
    min-height: 200px;
    width: 100%;

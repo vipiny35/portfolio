@@ -8,8 +8,14 @@
    ================================================== -->
    <meta charset="utf-8">
    <title>Vipin Yadav</title>
-   <meta name="description" content="">
-   <meta name="author" content="">
+   <meta name="description" content="I'm a Mumbai based web developer, programmer and web designer creating awesome and effective websites of all sizes.">
+   <meta name="author" content="Vipin Yadav">
+   <meta property="og:image" content="http://vipiny.com/images/pp.jpg" />
+   <meta property="og:locale" content="en_US" />
+   <meta property="og:type" content="profile" />
+   <meta property="og:title" content="Vipin Yadav" />
+   <meta property="og:site_name" content="Vipin Yadav" />
+   <meta name="keywords" content="Web Developer,Web Designer,Programmer,HTML,CSS,XML,JavaScript">
 
    <!-- Mobile Specific Metas
    ================================================== -->
@@ -51,6 +57,7 @@
             <li><a class="smoothscroll" href="#education">Education</a></li>
             <li><a class="smoothscroll" href="#skills">Skills</a></li>
             <li><a class="smoothscroll" href="#projects">Projects</a></li>
+            <li><a class="smoothscroll" href="#quotes">Quotes</a></li>
             <li><a class="smoothscroll" href="#contact">Contact</a></li>
          </ul> <!-- end #nav -->
          
@@ -95,8 +102,7 @@
 
             <h2>About Me</h2>
 
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Expedita qui reprehenderit facilis dignissimos totam suscipit nihil fuga voluptatibus ad recusandae, impedit itaque ut nisi enim voluptates architecto, vero. Aut, quas.
-            </p>
+            <p>The name's <span class="about-span">Vipin Yadav</span>. I code, design, consult and do other good stuffs. I am a tireless seeker of knowledge, occassional purveyor of wisdom and also, coincidentaly, a <span class="about-span">Web Developer<span> 😛</p>
 
             <div class="row">
 
@@ -261,7 +267,7 @@
                   <div class="item-wrap">
 
                      <a href="#modal-01" title="">
-                        <img alt="" src="images/portfolio/bh.png">
+                        <img alt="" src="images/portfolio/bh.jpg">
                         <div class="overlay">
                            <div class="portfolio-item-meta">
                               <h5>BscitHub</h5>
@@ -308,7 +314,7 @@
                   </div>
                </div> <!-- item end -->
 
-               <div class="columns portfolio-item">
+               <!-- <div class="columns portfolio-item">
                   <div class="item-wrap">
 
                      <a href="#modal-07" title="">
@@ -323,7 +329,7 @@
                      </a>
 
                   </div>
-               </div> <!-- item end -->
+               </div> --> <!-- item end -->
 
             </div> <!-- portfolio-wrapper end -->
 
@@ -339,7 +345,7 @@
 
             <div class="description-box">
                <h4>BscitHub</h4>
-               <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.</p>
+               <p>BscitHub is intended to supply basic inputs for a broad understanding of IT and its interfaces specially for students leaning B.Sc. IT program of Mumbai University.</p>
                <span class="categories"><i class="fa fa-tag"></i>Educational, Webdesign</span>
             </div>
 
@@ -355,13 +361,13 @@
             <img class="scale-with-grid" src="images/portfolio/modals/hb-modals.png" alt="" />
 
             <div class="description-box">
-               <h4>Console</h4>
-               <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.</p>
+               <h4>Hoolybib</h4>
+               <p>Hoolybib is an ambitious multimedia effort to share various news and story articles for a massive mainstream audience.</p>
                <span class="categories"><i class="fa fa-tag"></i>Branding, Web Development</span>
             </div>
 
             <div class="link-box">
-               <a href="#">Details</a>
+               <a href="http://hoolybib.com">Details</a>
                <a class="popup-modal-dismiss">Close</a>
             </div>
 
@@ -373,19 +379,18 @@
             <img class="scale-with-grid" src="images/portfolio/modals/rd-modals.jpg" alt="" />
 
             <div class="description-box">
-               <h4>Into the Light</h4>
-               <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.</p>
+               <h4>Radiate Light</h4>
+               <p>Radite Lights aims to provide quality LED lighting solutions and strive to improve people’s lives by providing best-in-class lighting solutions with energy efficient and eco friendly LED sources.</p>
                <span class="categories"><i class="fa fa-tag"></i>Photography</span>
             </div>
 
             <div class="link-box">
-               <a href="https://www.behance.net">Details</a>
                <a class="popup-modal-dismiss">Close</a>
             </div>
 
          </div><!-- modal-04 End -->
 
-         <div id="modal-07" class="popup-modal mfp-hide">
+         <!-- <div id="modal-07" class="popup-modal mfp-hide">
 
             <img class="scale-with-grid" src="images/portfolio/modals/m-origami.jpg" alt="" />
 
@@ -396,11 +401,11 @@
             </div>
 
             <div class="link-box">
-               <a href="https://www.behance.net">Details</a>
+               <a href="#">Details</a>
                <a class="popup-modal-dismiss">Close</a>
             </div>
 
-         </div><!-- modal-07 End -->
+         </div> --><!-- modal-07 End -->
 
       </div> <!-- row End -->
    </div><!-- Project color fill end-->
@@ -409,7 +414,7 @@
 
    <!-- Call-To-Action Section
    ================================================== -->
-   <section id="call-to-action">
+<!--    <section id="call-to-action">
 
       <div class="row">
 
@@ -434,7 +439,7 @@
 
       </div>
 
-   </section> <!-- Call-To-Action Section End-->
+   </section> --> <!-- Call-To-Action Section End-->
 
 
    <!-- Quotes Section
@@ -459,8 +464,8 @@
 
                      <li>
                         <blockquote>
-                           <p>You’re never too old to set another goal or to dream a new dream.</p>
-                           <cite>C.S. Lewis</cite>
+                           <p>There are three responses to a piece of design – yes, no, and WOW! Wow is the one to aim for.</p>
+                           <cite>Milton Glaser</cite>
                         </blockquote>
                      </li> <!-- slide ends -->
 
@@ -476,12 +481,11 @@
 
                      <li>
                         <blockquote>
-                           <p>There are three responses to a piece of design – yes, no, and WOW! Wow is the one to aim for.</p>
-                           <cite>Milton Glaser</cite>
+                           <p>You’re never too old to set another goal or to dream a new dream.</p>
+                           <cite>C.S. Lewis</cite>
                         </blockquote>
                      </li> <!-- slide ends -->
-
-
+                    
                   </ul>
 
                </div> <!-- div.flexslider ends -->
@@ -509,8 +513,8 @@
 
             <div class="ten columns">
 
-                  <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Harum minus provident non adipisci recusandae incidunt tempora a pariatur, soluta rerum.
-                  </p>
+                  <p class="lead">I'm here to provide you with more information, answer any questions you may have and create an effective solution for your website.</p>
+                  
 
             </div>
 
@@ -521,7 +525,7 @@
             <div class="eight columns">
 
                <!-- form -->
-               <form action="inc/sendEmail.php" method="post" id="contactForm" name="contactForm">
+               <form action="" method="post" id="contactForm" name="contactForm">
                <fieldset>
 
                   <div>
@@ -544,10 +548,13 @@
                      <textarea cols="50" rows="3" id="contactMessage" name="contactMessage"></textarea>
                   </div>
 
-                  <div class="g-recaptcha captcha" data-theme="light" data-size="normal" data-sitekey="6LfAkhQUAAAAAC2D3LxhB9XtYeoJGhuvR31sq9HW"></div>
+                  <div class="g-recaptcha captcha" data-theme="light" id="g-recaptcha-response" name="g-recaptcha-response" data-sitekey="6LfAkhQUAAAAAC2D3LxhB9XtYeoJGhuvR31sq9HW"></div>
                   
                   <div>
-                     <input type="submit" class="submit" value="Submit">
+                     
+                     <!-- <input type="submit" class="submit" value="Submit"> -->
+                     <button class="submit">Submit</button>
+
                      <span id="image-loader">
                         <img alt="" src="images/loader.gif">
                      </span>
@@ -637,6 +644,8 @@
    <script src="js/jquery.fittext.js"></script>
    <script src="js/magnific-popup.js"></script>
    <script src="js/init.js"></script>
+   
+   <!-- Google reCAPTCHA API-->
    <script src='https://www.google.com/recaptcha/api.js'></script>
    
    <!-- Begin Cookie Consent plugin-->
