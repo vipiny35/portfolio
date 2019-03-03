@@ -3,7 +3,7 @@
 	//Email address to receive email
 	$siteOwnersEmail = 'vipin.yadav@webtiara.com,vipiny35@gmail.com';
 
-	$secret = "6LcoICoUAAAAAB1V0LIiCTdY1AKveiVf4Od4Mdby";
+	$secret = "###";
 	$user_ip = $_SERVER['REMOTE_ADDR'];
 
 	if(isset($_POST['recaptcha'])){
