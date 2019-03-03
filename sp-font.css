@@ -1,0 +1,23 @@
+/*
+ * Custom font - SPOTIFY
+================================================================================ */
+
+@font-face {
+    font-family: "spotify-book";
+    src: url("spotify_fonts/CircularSpUIv3T-Book.woff2") format('woff2');
+}
+
+@font-face {
+    font-family: "spotify-light";
+    src: url("spotify_fonts/CircularSpUIv3T-Light.woff2") format('woff2');
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: "spotify-bold";
+    src: url("spotify_fonts/CircularSpUIv3T-Bold.woff2") format('woff2');
+    font-weight: bold;
+    font-style: italic;
+}
+
+
