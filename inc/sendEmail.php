@@ -1,7 +1,7 @@
 ﻿<?php
 
 	//Email address to receive email
-	$siteOwnersEmail = 'vipin.yadav@webtiara.com,vipiny35@gmail.com';
+	$siteOwnersEmail = 'vipin.yadav@webtiara.com';
 
 	$secret = "###";
 	$user_ip = $_SERVER['REMOTE_ADDR'];

@@ -10,7 +10,7 @@
    <title>Vipin Yadav - Full Stack Web Developer</title>
    <meta name="description" content="I'm a Mumbai based web developer, programmer and web designer creating awesome and effective websites of all sizes.">
    <meta name="author" content="Vipin Yadav">
-   <meta property="og:image" content="http://vipiny.com/images/pp.jpg" />
+   <meta property="og:image" content="http://www.webtiara.com/me/images/vip.jpg" />
    <meta property="og:locale" content="en_US" />
    <meta property="og:type" content="profile" />
    <meta property="og:title" content="Vipin Yadav - Full Stack Web Developer" />
@@ -59,10 +59,9 @@
          <!-- <li><a class="smoothscroll" href="#about"><img src="favicon.png" alt="icon" class="favicon"></a></li> -->
             <li class="current"><a class="smoothscroll" href="#intro">Intro</a></li>
             <li><a class="smoothscroll" href="#about">About</a></li>
-            <li><a class="smoothscroll" href="#education">Education</a></li>
             <li><a class="smoothscroll" href="#skills">Skills</a></li>
             <li><a class="smoothscroll" href="#projects">Projects</a></li>
-            <li><a class="smoothscroll" href="#quotes">Quotes</a></li>
+            <li><a class="smoothscroll" href="#education">Education</a></li>
             <li><a class="smoothscroll" href="#contact">Contact</a></li>
          </ul> <!-- end #nav -->
          
@@ -71,7 +70,7 @@
       <div class="row banner">
          <div class="banner-text">
             <h1 class="responsive-headline">Hi, I'm Vipin.</h1>
-            <h3>I'm a Mumbai based <span>web developer</span>, <span>programmer</span> and <span>web designer</span> creating awesome and effective websites of all sizes.</h3>
+            <h3>I'm a Mumbai based <span>full-stack developer</span>. I create awesome and effective websites and applications of all sizes.</h3>
             <hr />
             <ul class="social">
                <li><a href="https://facebook.com/vipiny35" target="_blank"><i class="fa fa-facebook"></i></a></li>
@@ -99,7 +98,7 @@
 
          <div class="three columns">
 
-            <img class="profile-pic"  src="images/pp.jpg" alt="" />
+            <img class="profile-pic"  src="images/vip.jpg" alt="" />
 
          </div>
 
@@ -140,81 +139,7 @@
    </section> <!-- About Section End-->
 
 
-   <!-- Resume Section
-   ================================================== -->
-   <section id="education">
 
-      <!-- Education
-      ============================================== -->
-      <div class="row education">
-
-         <div class="three columns header-col">
-            <h1><span>Education</span></h1>
-         </div>
-
-         <div class="nine columns main-col">
-
-            <div class="row item">
-
-               <div class="twelve columns">
-
-                  <h3>B.N. Bandodkar College of Science</h3>
-                  <p class="info">Bachelor of Science, Information Technology <span>&bull;</span> <em class="date">2013 - 2016</em></p>
-
-                  <p>
-                  I hold graduation degree specialized in IT with 'A' grade. I learned a lot while exploring new subjects.
-                  </p>
-
-               </div>
-
-            </div> <!-- item end -->
-
-            <div class="row item">
-
-               <div class="twelve columns">
-
-                  <h3>Ramniranjan Juhunjhunwala College</h3>
-                  <p class="info">Higher Secondary, Science <span>&bull;</span><em class="date">2011 - 2013</em></p>
-
-                  <p>I completed my Higher Secondary Certification from one of the best college in Mumbai. Interest were purely based on science, from physics to mathematics &amp; biology to chemistry. </p>
-
-               </div>
-
-            </div> <!-- item end -->
-
-            <div class="row item">
-
-               <div class="twelve columns">
-
-                  <h3>Mother Mary English High School</h3>
-                  <p class="info">Secondary School <span>&bull;</span><em class="date">2007 - 2011</em></p>
-
-                  <p></p>
-
-               </div>
-
-            </div> <!-- item end -->
-
-            <div class="row item">
-
-               <div class="twelve columns">
-
-                  <h3>Divine Holy English High School</h3>
-                  <p class="info">Primary School <span>&bull;</span><em class="date">2000 - 2007</em></p>
-
-                  <p>
-                  </p>
-
-               </div>
-
-            </div> <!-- item end -->
-
-
-         </div> <!-- main-col end -->
-
-      </div> <!-- End Education -->
-  
-   </section> <!-- Education Section End-->
 
 
    <section id="skills">
@@ -228,18 +153,18 @@
 
          <div class="nine columns main-col">
 
-            <p>I possess a diverse set of skills. I have learned programming languages like C#, Java, C++, PHP and many more.
+            <p>I possess a diverse set of skills. I have learned programming languages like JavaScript, Python, TypeScript, Java, C++, and many more.
             I'm most skilled in quick learning. I devote my free time trying to learn about new and emerging technologies. Working with web technologies is my forte. 
             </p>
 
             <div class="bars">
 
                <ul class="skills">
-                  <li><span class="bar-expand photoshop"></span><em>Photoshop</em></li>
-                  <li><span class="bar-expand wordpress"></span><em>Wordpress</em></li>
-                  <li><span class="bar-expand css"></span><em>CSS</em></li>
-                  <li><span class="bar-expand html5"></span><em>HTML5</em></li>
-                        <li><span class="bar-expand jquery"></span><em>jQuery</em></li>
+                 <li><span class="bar-expand jquery"></span><em>jQuery</em></li>
+                 <li><span class="bar-expand html5"></span><em>HTML5</em></li>
+                 <li><span class="bar-expand wordpress"></span><em>Wordpress</em></li>
+                 <li><span class="bar-expand css"></span><em>CSS</em></li>
+                 <li><span class="bar-expand photoshop"></span><em>Photoshop</em></li>
                         <li><span class="bar-expand coffee"></span><em>Drinking Coffee</em></li>
                </ul>
 
@@ -416,92 +341,81 @@
    </div><!-- Project color fill end-->
    </section> <!-- Project Section End-->
 
-
-   <!-- Call-To-Action Section
+   <!-- Resume Section
    ================================================== -->
-<!--    <section id="call-to-action">
+   <section id="education">
 
-      <div class="row">
+      <!-- Education
+      ============================================== -->
+      <div class="row education">
 
-         <div class="two columns header-col">
-
-            <h1><span>New Section.</span></h1>
-
+         <div class="three columns header-col">
+            <h1><span>Education</span></h1>
          </div>
 
-         <div class="seven columns">
+         <div class="nine columns main-col">
 
-            <h2><a href="#">Heading section</a></h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Suscipit quo dicta minima nam dolores mollitia accusantium, cumque numquam quia eos! <a href="#"><span>Link</span></a>.</p>
+            <div class="row item">
 
-         </div>
+               <div class="twelve columns">
 
-         <div class="three columns action">
+                  <h3>B.N. Bandodkar College of Science</h3>
+                  <p class="info">Bachelor of Science, Information Technology <span>&bull;</span> <em class="date">2013 - 2016</em></p>
 
-            <a href="#" class="button">Submit</a>
+                  <p>
+                  I hold graduation degree specialized in IT with 'A' grade. I learned a lot while exploring new subjects.
+                  </p>
 
-         </div>
+               </div>
 
-      </div>
+            </div> <!-- item end -->
 
-   </section> --> <!-- Call-To-Action Section End-->
+            <div class="row item">
+
+               <div class="twelve columns">
+
+                  <h3>Ramniranjan Juhunjhunwala College</h3>
+                  <p class="info">Higher Secondary, Science <span>&bull;</span><em class="date">2011 - 2013</em></p>
+
+                  <p>I completed my Higher Secondary Certification from one of the best college in Mumbai. Interest were purely based on science, from physics to mathematics &amp; biology to chemistry. </p>
+
+               </div>
+
+            </div> <!-- item end -->
+
+            <div class="row item">
+
+               <div class="twelve columns">
+
+                  <h3>Mother Mary English High School</h3>
+                  <p class="info">Secondary School <span>&bull;</span><em class="date">2007 - 2011</em></p>
+
+                  <p></p>
+
+               </div>
+
+            </div> <!-- item end -->
+
+            <div class="row item">
+
+               <div class="twelve columns">
+
+                  <h3>Divine Holy English High School</h3>
+                  <p class="info">Primary School <span>&bull;</span><em class="date">2000 - 2007</em></p>
+
+                  <p>
+                  </p>
+
+               </div>
+
+            </div> <!-- item end -->
 
 
-   <!-- Quotes Section
-   ================================================== -->
-   <section id="quotes">
-   <div class="color-fill">
-      <div class="text-container">
+         </div> <!-- main-col end -->
 
-         <div class="row">
-
-            <div class="two columns header-col">
-
-               <h1><span>Favorite Quotes</span></h1>
-
-            </div>
-
-            <div class="ten columns flex-container">
-
-               <div class="flexslider">
-
-                  <ul class="slides">
-
-                     <li>
-                        <blockquote>
-                           <p>There are three responses to a piece of design – yes, no, and WOW! Wow is the one to aim for.</p>
-                           <cite>Milton Glaser</cite>
-                        </blockquote>
-                     </li> <!-- slide ends -->
-
-                     <li>
-                        <blockquote>
-                           <p>Your work is going to fill a large part of your life, and the only way to be truly satisfied is
-                           to do what you believe is great work. And the only way to do great work is to love what you do.
-                           If you haven't found it yet, keep looking. Don't settle. As with all matters of the heart, you'll know when you find it.
-                           </p>
-                           <cite>Steve Jobs</cite>
-                        </blockquote>
-                     </li> <!-- slide ends -->
-
-                     <li>
-                        <blockquote>
-                           <p>You’re never too old to set another goal or to dream a new dream.</p>
-                           <cite>C.S. Lewis</cite>
-                        </blockquote>
-                     </li> <!-- slide ends -->
-                    
-                  </ul>
-
-               </div> <!-- div.flexslider ends -->
-
-            </div> <!-- div.flex-container ends -->
-
-         </div> <!-- row ends -->
-
-       </div>  <!-- text-container ends -->
-   </div><!-- text-container ends -->
-   </section> <!-- Quotes Section End-->
+      </div> <!-- End Education -->
+  
+   </section> <!-- Education Section End-->
 
 
    <!-- Contact Section
@@ -510,15 +424,11 @@
 
          <div class="row section-head">
 
-            <div class="two columns header-col">
-
-               <h1><span>Get In Touch.</span></h1>
-
-            </div>
+            
 
             <div class="ten columns">
 
-                  <p class="lead">I'm here to provide you with more information, answer any questions you may have and create an effective solution for your website.</p>
+                  <p class="lead">Want to discuss something? <br>Drop a message.</p>
                   
 
             </div>
@@ -530,82 +440,32 @@
             <div class="eight columns">
 
                <!-- form -->
-               <form action="" method="post" id="contactForm" name="contactForm">
-               <fieldset>
-
-                  <div>
-                     <label for="contactName">Name <span class="required">*</span></label>
-                     <input type="text" value="" size="35" id="contactName" name="contactName">
-                  </div>
-
-                  <div>
-                     <label for="contactEmail">Email <span class="required">*</span></label>
-                     <input type="text" value="" size="35" id="contactEmail" name="contactEmail">
-                  </div>
-
-                  <div>
-                     <label for="contactSubject">Subject</label>
-                     <input type="text" value="" size="35" id="contactSubject" name="contactSubject">
-                  </div>
-
-                  <div>
-                     <label for="contactMessage">Message <span class="required">*</span></label>
-                     <textarea cols="50" rows="3" id="contactMessage" name="contactMessage"></textarea>
-                  </div>
-
-                  <div class="g-recaptcha captcha" data-theme="light" id="g-recaptcha-response" name="g-recaptcha-response" data-sitekey="6LcoICoUAAAAAEjdijp3ldDeq-XLyz73ujlnU4Vy"></div>
-                  
-                  <div>
-                     
-                     <!-- <input type="submit" class="submit" value="Submit"> -->
-                     <button class="submit">Submit</button>
-
-                     <span id="image-loader">
-                        <img alt="" src="images/loader.gif">
-                     </span>
-                  </div>
-
-               </fieldset>
-               </form> <!-- Form End -->
+                <!-- Form End -->
 
                <!-- contact-warning -->
-               <div id="message-warning"> Error boy</div>
+               <p class="address">
+                     Vipin Yadav<br>
+                     Mumbai <br>
+                     <span>+91 nine nine two zero six double eight one seven four</span><br>
+                     <span><a href="mailto:vipin.yadav@webtiara.com">vipin.yadav@webtiara.com</a></span>
+                  </p>
                <!-- contact-success -->
-               <div id="message-success">
-                  <i class="fa fa-check"></i>Your message was sent, thank you!<br>
-               </div>
+               
 
             </div>
 
             <aside class="four columns footer-widgets">
 
-               <div class="widget widget_contact">
+               
 
-                  <h4>Address and Phone</h4>
-                  <p class="address">
-                     Vipin Yadav<br>
-                     Mumbai <br>
-                     MH 400615 IN<br>
-                     <span><a href="tel:+919920688174">(+91) 9920 688 174</a></span><br>
-                     <span><a href="mailto:vipin.yadav@webtiara.com">vipin.yadav@webtiara.com</a></span>
-                  </p>
-
-               </div>
-
-               <div class="widget widget_tweets">
-
-                  <h4 class="widget-title">Latest tweets</h4>
-
-
-                  <a class="twitter-timeline" href="https://twitter.com/vipiny35" data-width="100%" data-height="300">Tweets by @vipiny35</a>
-
-               </div>
+               
 
             </aside>
 
       </div>
 
-   </section> <!-- Contact Section End-->
+   </section>
+    <!-- Contact Section End-->
 
 
    <!-- footer
